@@ -24,11 +24,14 @@ git clone [[https://github.com/yourusername/your-repo-name](https://github.com/m
 
 
 Navigate to the project directory:
+```bash
 cd Geometrik_Olmayan_Alan_Hesaplama_Program-
-
+````
 
 Run the application:
+```bash
 python main.py
+````
 
 🇹🇷 Türkçe
 [ English | Türkçe | العربية ]
@@ -53,24 +56,32 @@ Görselleştirme: İşlem adımlarını (Threshold, Kontur çizimi) OpenCV pence
 🛠️ Kurulum ve Gereksinimler
 Sisteminizde Python yüklü olmalıdır. Gerekli kütüphaneleri kurmak için:
 
-Bash
+```bash
+
 
 pip install opencv-python numpy PyQt5 pytesseract
+
+````
 🚀 Nasıl Çalıştırılır
 Projeyi klonlayın:
 
-Bash
+```bash
+
 
 git clone [[https://github.com/yourusername/your-repo-name](https://github.com/munahamh/Geometrik_Olmayan_Alan_Hesaplama_Program-.git]([https://github.com/yourusername/your-repo-name](https://github.com/munahamh/Geometrik_Olmayan_Alan_Hesaplama_Program-).git)
+````
 Proje dizinine gidin:
 
 
+```bash
 
 cd Geometrik_Olmayan_Alan_Hesaplama_Program-
+
+````
 Uygulamayı başlatın:
-
+```bash
 python main.py
-
+````
 
 🇸🇦 العربية
 [ English | Türkçe | العربية ]
@@ -96,24 +107,33 @@ python main.py
 تأكد من تثبيت بايثون على جهازك، ثم قم بتثبيت المكتبات التالية:
 
 
+```bash
 
 pip install opencv-python numpy PyQt5 pytesseract
+````
 🚀 طريقة التشغيل
 قم بتحميل المشروع (Clone):
 
+```bash
 
 
 git clone [[https://github.com/yourusername/your-repo-name](https://github.com/munahamh/Geometrik_Olmayan_Alan_Hesaplama_Program-.git]([https://github.com/yourusername/your-repo-name](https://github.com/munahamh/Geometrik_Olmayan_Alan_Hesaplama_Program-).git)
+````
 ادخل إلى مجلد المشروع:
 
 
+```bash
 
 cd Geometrik_Olmayan_Alan_Hesaplama_Program-
+````
 قم بتشغيل البرنامج:
 
 
+```bash
 
 python main.py
+````
+
 
 
 <img width="745" height="882" alt="Ekran görüntüsü 2026-02-26 234940" src="https://github.com/user-attachments/assets/f795c7c9-5457-40d2-bb41-833fefe1fa42" />
