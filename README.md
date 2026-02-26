@@ -114,6 +114,6 @@ cd Geometrik_Olmayan_Alan_Hesaplama_Program-
 
 python main.py
 
-<img width="745" height="882" alt="Ekran görüntüsü 2026-02-26 234940" src="https://github.com/user-attachments/assets/fc6ac3c5-d0f8-4371-88f7-64a4d703f9d1" />
+<img width="745" height="882" alt="Ekran görüntüsü 2026-02-26 234940" src="C:\Users\monah\OneDrive\الصور\لقطات الشاشة\Ekran görüntüsü 2026-02-26 234940.png" />
 
 
