@@ -1,0 +1,17 @@
+# Environments
+.venv/
+venv/
+env/
+
+# Build folders
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE files (PyCharm/VSCode)
+.idea/
+.vscode/
