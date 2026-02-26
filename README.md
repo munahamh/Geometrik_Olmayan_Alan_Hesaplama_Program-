@@ -16,6 +16,7 @@ A Python-based desktop application built with **PyQt5** and **OpenCV** that calc
 Make sure you have Python installed. You will need the following libraries:
 ```bash
 pip install opencv-python numpy PyQt5 pytesseract
+````
 
 🚀 How to Run
 Clone the repository:
@@ -114,7 +115,7 @@ cd Geometrik_Olmayan_Alan_Hesaplama_Program-
 
 python main.py
 
-```
+
 <img width="745" height="882" alt="Ekran görüntüsü 2026-02-26 234940" src="https://github.com/user-attachments/assets/f795c7c9-5457-40d2-bb41-833fefe1fa42" />
 
 
