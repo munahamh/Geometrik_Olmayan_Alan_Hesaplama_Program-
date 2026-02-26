@@ -111,7 +111,7 @@ cd Geometrik_Olmayan_Alan_Hesaplama_Program-
 قم بتشغيل البرنامج:
 
 
-
+```bash
 python main.py
 
 
